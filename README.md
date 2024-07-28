@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senuli-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### Profile viewers
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/senuli-w/count.svg?"  />
