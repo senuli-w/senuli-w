@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about developing impactful software
 - **[ML Project for the Bank Marketing Dataset on UCL ML Repository](https://github.com/senuli-w/CM2604):**  
   Ml model using the Bank Marketing Dataset from the UCL ML Repository to predict customer response to term deposit offers.
 
-- **[Data Engineering Project - ETL Pipeline in AWS]():**
+- **[Data Engineering Project - ETL Pipeline in AWS]():**\
   Designed and deployed a weather data ETL pipeline on AWS EC2 using Apache Airflow and OpenWeatherMap API, integrating S3 storage, HTTP sensors, and automated task scheduling.
   
 - **[More projects...](https://github.com/senuli-w?tab=repositories)**
@@ -52,8 +52,7 @@ Welcome to my GitHub profile! I'm passionate about developing impactful software
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/senuli-w)
-- [Twitter](https://twitter.com/senuli_w)
+- [LinkedIn](inkedin.com/in/senuli-wickramage-b6089727a/)
 - Email: senuli.w@example.com
 
 ---
