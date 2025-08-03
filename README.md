@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about developing impactful software
 - **[Fall Detection System for Eldery Individuals](https://github.com/ethanchristoff/CM2603-Data_Science_Project-G20):**  
   A real-time fall detection system integrating sensor data with machine learning techniques to monitor and predict falls among elderly users.
 
-- **[L Project for the Bank Marketing Dataset on UCL ML Repository](https://github.com/senuli-w/CM2604):**  
+- **[ML Project for the Bank Marketing Dataset on UCL ML Repository](https://github.com/senuli-w/CM2604):**  
   Ml model using the Bank Marketing Dataset from the UCL ML Repository to predict customer response to term deposit offers.
 
 - **[Data Engineering Project - ETL Pipeline in AWS]():**
