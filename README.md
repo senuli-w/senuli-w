@@ -16,12 +16,15 @@ Welcome to my GitHub profile! I'm passionate about developing impactful software
 
 ## 📚 Featured Projects
 
-- **[Project Name 1](https://github.com/senuli-w/project1):**  
-  Brief description of this project and what problem it solves.
+- **[Fall Detection System for Eldery Individuals](https://github.com/ethanchristoff/CM2603-Data_Science_Project-G20):**  
+  A real-time fall detection system integrating sensor data with machine learning techniques to monitor and predict falls among elderly users.
 
-- **[Project Name 2](https://github.com/senuli-w/project2):**  
-  Brief description of this project and its key technologies.
+- **[L Project for the Bank Marketing Dataset on UCL ML Repository](https://github.com/senuli-w/CM2604):**  
+  Ml model using the Bank Marketing Dataset from the UCL ML Repository to predict customer response to term deposit offers.
 
+- **[Data Engineering Project - ETL Pipeline in AWS]():**
+  Designed and deployed a weather data ETL pipeline on AWS EC2 using Apache Airflow and OpenWeatherMap API, integrating S3 storage, HTTP sensors, and automated task scheduling.
+  
 - **[More projects...](https://github.com/senuli-w?tab=repositories)**
 
 ---
