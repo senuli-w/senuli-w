@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm passionate about developing impactful software
 ## 📫 Connect With Me
 
 - [LinkedIn](inkedin.com/in/senuli-wickramage-b6089727a/)
-- Email: senuli.w@example.com
+- Email: senuliwickramage@gmail.com
 
 ---
 
